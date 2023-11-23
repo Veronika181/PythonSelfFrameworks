@@ -1,0 +1,16 @@
+Develop End to End Selenium
+
+Standarts of writing Selenium tests in Framework
+How to generalize Browser invocation code
+Creating Setup Fixtures and passing class objects to Test
+Passing commandline options to select browser at run time
+What is Page object Design pattern and its importance?
+Implementing Page Objects mechanism into Framework
+Smart way of optimizing Page objects by removing object creation in tests
+Creating Custom Utilities in Selenium
+TestCase implementing Framework Standards
+Debug and develop custom utilities for Test case
+Implement Data driven mechanism by removing hard coding data from tests
+Parameterizing the Tests with multimple Data sets using Dictionary
+Implementing Logging feature into Framework tests
+Generating HTML Reports with Logging Integration
