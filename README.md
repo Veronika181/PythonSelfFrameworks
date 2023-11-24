@@ -1,4 +1,5 @@
 # PythonSelfFrameworks
+Pokračování kurzu Selenium WebDriver s Pythonem od Rahula Shettyho z Udemy
 FUNKCE:
 End-to-End Testování: Komplexní testování pomocí Selenia.
 Page Object Design Pattern: Implementace strukturovaného přístupu pro lepší udržovatelnost.
