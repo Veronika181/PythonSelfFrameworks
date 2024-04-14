@@ -1,6 +1,5 @@
 # PythonSelfFrameworks
 In Rahul Shetty's Selenium WebDriver with Python course continuation on Udemy, I learned about:
-
 1.End-to-End Testing: Comprehensive testing with Selenium.
 2.Page Object Design Pattern: Structured approach for maintainability.
 3.Flexibility: Dynamic browser selection via command line.
