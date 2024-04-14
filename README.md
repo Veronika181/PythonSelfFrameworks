@@ -1,9 +1,10 @@
 # PythonSelfFrameworks
-Pokračování kurzu Selenium WebDriver s Pythonem od Rahula Shettyho z Udemy
-V tomto pokrařovaní kurzu jsem se naučila:
--End-to-End Testování: Komplexní testování pomocí Selenia.
--Page Object Design Pattern: Implementace strukturovaného přístupu pro lepší udržovatelnost.
--Flexibilita: Dynamický výběr prohlížeče pomocí příkazového řádku.
--Data-Driven Testování: Parametrizace testů s různými datovými sadami.
--Vlastní Utility: Rozšiřujte a ladí testy pomocí vlastních utilit.
--Logging a Reporting: Integrované logování pro lepší náhledy
+In Rahul Shetty's Selenium WebDriver with Python course continuation on Udemy, I learned about:
+
+1.End-to-End Testing: Comprehensive testing with Selenium.
+2.Page Object Design Pattern: Structured approach for maintainability.
+3.Flexibility: Dynamic browser selection via command line.
+4.Data-Driven Testing: Parameterizing tests with different data sets.
+5.Custom Utilities: Developing utility functions for testing.
+6.Logging and Reporting: Integrating logging and generating reports.
+These cover advanced techniques for building robust test suites.
